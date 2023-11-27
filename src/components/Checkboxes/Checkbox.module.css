@@ -1,0 +1,12 @@
+.checkbox {
+  display: flex;
+  align-items: center;
+}
+.checkboxes {
+  display: inline-block;
+}
+.price {
+  margin-left: auto;
+  padding-left: 1rem;
+  color: #ccc;
+}
